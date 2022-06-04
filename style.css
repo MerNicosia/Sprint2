@@ -1,0 +1,62 @@
+
+body{
+    font-size: 15px;
+    text-align: center;
+    background-image: url(thoughtful-businessman-sitting-with-open-laptop-computer-looking-and-worried-while-thinking-about-planning-top-view.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+
+body form{
+    padding: 50px;      
+
+}
+.frase{
+    margin-top: 15px;
+    font-weight: 600;
+}
+
+body input{
+    box-shadow: 5px 2px 5px black;
+    font-size: 15px;
+        
+}
+.gasto{
+    margin-top: 15px;
+    display: flexbox;
+    align-items: center;
+}
+.nombre{
+    display: flexbox;
+    align-items: center;
+}
+
+body li{
+    list-style: none;
+    text-align: left;
+    background-color: rgb(245, 245, 245);
+    margin: 0px;
+	padding: 0px;
+    margin-top: 10px;
+    padding-top: 10px;
+    font-size: 15px;
+    block-size: 40px;
+    text-indent: 20px;
+
+}
+body ul{
+    margin: 0px;
+    margin-top: 10px;
+	padding: 0px;
+    padding-bottom: 15px;
+    padding-top: 10px;
+}
+
+.total{
+    font-weight: 600;
+}
+.cadauno{
+    font-weight: 600;
+}
